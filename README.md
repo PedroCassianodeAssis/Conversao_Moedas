@@ -25,8 +25,8 @@ Tela final, mostrando a conversão do valor digitado pelo usuário anteriormente
 
 
 ## 🛠 Tecnologias Utilizadas: <a id="tecnologias"></a>
-- [HTML] - Linguagem de marcação de hipertexto;
-- [CSS] - Define o estilo e layout das páginas HTML;
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - Linguagem de marcação de hipertexto;
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - Define o estilo e layout das páginas HTML;
 - [PHP](https://www.php.net) - Linguagem de programação utilizada.
 
 
