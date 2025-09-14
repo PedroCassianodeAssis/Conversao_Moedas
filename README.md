@@ -21,6 +21,7 @@
 Primeira tela onde o usuário digitará o valor e qual moeda irá ser convertida:
 ![Demostração](./assets/tela_usuario.jpeg)
 
+----
 
 Tela final, mostrando a conversão do valor digitado pelo usuário anteriormente pela moeda escolhida pelo próprio.
 ![Demostração](./assets/tela_final.jpeg)
